@@ -7,7 +7,7 @@ Ich liebe es, Ideen in Code zu verwandeln und neue Tools zu entwickeln, die echt
 
 ## 🟢 Live Discord Status  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/1091616866868400139)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px)](https://nxah.de)
 
 ---
 
