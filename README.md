@@ -21,7 +21,7 @@ Ich liebe es, Ideen in Code zu verwandeln und neue Tools zu entwickeln, die echt
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dc.nxah.de)  
 [![Website](https://img.shields.io/badge/Website-nxah.de-blue?style=for-the-badge&logo=google-chrome)](https://nxah.de)  
-[![GitHub](https://img.shields.io/badge/GitHub-thisisenoah-black?style=for-the-badge&logo=github)](https://github.com/thisisenoah)  
+[![GitHub](https://img.shields.io/badge/GitHub-thisisenoah-black?style=for-the-badge&logo=github)](https://github.com/einpole)  
 [![Email](https://img.shields.io/badge/Email-Noah@mailgen.pl-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Noah@mailgen.pl)
 
 ---
