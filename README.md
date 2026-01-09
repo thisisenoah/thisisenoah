@@ -9,18 +9,11 @@ Ich liebe es, Ideen in Code zu verwandeln und neue Tools zu entwickeln, die echt
 
 | Projekt | Beschreibung | Link |
 |----------|---------------|------|
-| 🤖 **Ren** | Mein eigener Discord-Bot mit Smart Features & moderner API | [ren.madezmt.com (Soon)](https://ren.madezmt.com) |
+| 🤖 **Infyno** | Das Public Global Economy System für Discord. | [ren.madezmt.com (Soon)](https://infyno.de) |
 | 🧭 **madezmt** | Plattform & Community rund um moderne Web-Tools und Bots | [madezmt.com](https://madezmt.com) |
-| ⚙️ **Sykla** | Dynamisches Projekt mit Fokus auf Automatisierung & Integration | [sykla.net](https://sykla.net) |
+| ⚙️ **Sykla** | High-Performance Server-Hosting für Python, Node.js und mehr. | [sykla.net](https://sykla.net) |
 | 🌐 **Nxah.de** | Meine persönliche Profilseite und Dev-Portfolio | [nxah.de](https://nxah.de) |
 | 💬 **Discord Server** | Werde Teil meiner Community | [dc.nxah.de](https://dc.nxah.de) |
-
----
-
-## 📊 GitHub Stats  
-
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisenoah&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisenoah&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
