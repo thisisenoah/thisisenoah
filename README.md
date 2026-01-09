@@ -9,7 +9,7 @@ Ich liebe es, Ideen in Code zu verwandeln und neue Tools zu entwickeln, die echt
 
 | Projekt | Beschreibung | Link |
 |----------|---------------|------|
-| 🤖 **Infyno** | Das Public Global Economy System für Discord. | [ren.madezmt.com (Soon)](https://infyno.de) |
+| 🤖 **Infyno** | Das Public Global Economy System für Discord. | [infyno.de](https://infyno.de) |
 | 🧭 **madezmt** | Plattform & Community rund um moderne Web-Tools und Bots | [madezmt.com](https://madezmt.com) |
 | ⚙️ **Sykla** | High-Performance Server-Hosting für Python, Node.js und mehr. | [sykla.net](https://sykla.net) |
 | 🌐 **Nxah.de** | Meine persönliche Profilseite und Dev-Portfolio | [nxah.de](https://nxah.de) |
